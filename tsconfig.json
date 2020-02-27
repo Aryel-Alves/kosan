@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    "forceConsistentCasingInFileNames": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "allowSyntheticDefaultImports": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "strictNullChecks": true,
+    "esModuleInterop": true,
+    "noImplicitThis": true,
+    "noUnusedLocals": true,
+    "noImplicitAny": false,
+    "declaration": true,
+    "sourceMap": true,
+    "allowJs": true,
+    "noEmit": true,
+    "target": "es6",
+    "lib": ["es2015"],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "baseUrl": "./src",
+    "outDir": "dist",
+    "paths": {
+      "~/*": ["./*"],
+      "@methods/*": ["methods/*"],
+      "@structures/*": ["structures/*"],
+      "@utils/*": ["utils/*"]
+    }
+  },
+  "include": ["src"],
+  "exclude": ["node_modules"]
+}
