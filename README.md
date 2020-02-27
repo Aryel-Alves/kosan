@@ -1,6 +1,9 @@
 <div align="center">
-  [![CodeFactor][codefactor-badge]][codefactor-url]</br>
-  [![DeepSource][deepsource-badge]][deepsource-url]
+
+[![Codacy Badge][codacy-badge]][codacy-url]
+[![CodeFactor][codefactor-badge]][codefactor-url]</br>
+[![DeepSource][deepsource-badge]][deepsource-url]
+
 </div>
 
 [codacy-badge]: https://api.codacy.com/project/badge/Grade/f36986ee62774fb1922800fbe95ae76b
