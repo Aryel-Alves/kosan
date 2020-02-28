@@ -1,10 +1,10 @@
 "project":
   - ./*
-  
+
 "tests":
   - src/__tests__/*
   - src/__tests__/**/*
-  
+
 "methods":
   - src/methods/*
   - src/methods/**/*
