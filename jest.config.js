@@ -8,7 +8,8 @@ module.exports = {
     '^.+\\.(ts|tsx)$': 'ts-jest'
   },
   moduleNameMapper: {
-    '~/(.*)': '<rootDir>/src/$1',
+    '@root/(.*)': '<rootDir>/src/$1',
+    '@router/(.*)': '<rootDir>/src/router/$1',
     '@methods/(.*)': '<rootDir>/src/methods/$1',
     '@structures/(.*)': '<rootDir>/src/structures/$1',
     '@utils/(.*)': '<rootDir>/src/utils/$1'
