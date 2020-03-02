@@ -29,7 +29,7 @@
     "sucrase": "^3.12.1",
     "ts-jest": "^25.2.1",
     "tsconfig-paths": "^3.9.0",
-    "typescript": "^3.8.2"
+    "typescript": "^3.8.3"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
